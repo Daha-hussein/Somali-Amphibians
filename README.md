@@ -24,7 +24,7 @@ The model is trained on a portion of the dataset and validated on a separate sub
 ## Usage
 1. Clone this repository:
     ```
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Daha-hussein/Somali-Amphibians.git
     ```
 2. Install the required dependencies:
     ```
